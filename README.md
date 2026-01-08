@@ -90,6 +90,16 @@ This project is licensed under the Creative Commons Attribution-NonCommercial 4.
 
 If you use GenEval2 in your research, please consider citing our work.
 
+**BibTeX:**
+```bibtex
+@article{kamath2025geneval,
+  title={GenEval 2: Addressing Benchmark Drift in Text-to-Image Evaluation},
+  author={Kamath, Amita and Chang, Kai-Wei and Krishna, Ranjay and Zettlemoyer, Luke and Hu, Yushi and Ghazvininejad, Marjan},
+  journal={arXiv preprint arXiv:2512.16853},
+  year={2025}
+}
+```
+
 ## Contributing
 
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
