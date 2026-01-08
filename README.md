@@ -1,5 +1,18 @@
 # GenEval 2: Addressing Benchmark Drift in Text-to-Image Evaluation
 
+
+This repo contains data and evaluation codes for the paper [GenEval 2: Addressing Benchmark Drift in Text-to-Image Evaluation](https://arxiv.org/abs/2512.16853).
+
+[**📑 Paper**](https://arxiv.org/abs/2512.16853) | [**💻 Code & data**](https://github.com/facebookresearch/GenEval2)
+
+
+**[Meta FAIR](https://ai.meta.com/research/)**, UW, UCLA, AI2
+
+Amita Kamath, Kai-Wei Chang, Ranjay Krishna, Luke Zettlemoyer, Yushi Hu*, Marjan Ghazvininejad*
+
+
+## Intro
+
 **GenEval 2** is a Text-to-Image (T2I) benchmark with improved coverage of primitive visual concepts (objects, attributes, relations, counting) and higher degrees of compositionality than existing benchmarks. It contains 800 prompts with varying degrees of compositionality.
 
 GenEval 2 is evaluated with **Soft-TIFA**, a VQA-based evaluation method that combines judgments for visual primitives and is better-aligned with human judgment and less likely to drift from human-alignment over time than other evaluation methods. 
